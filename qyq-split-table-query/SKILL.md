@@ -11,8 +11,8 @@ description: 使用 FilterSplitTablesByRange 扩展方法手动枚举分表进�
 
 ## 依赖
 
-- **NuGet**：`QYQ.Base.SqlSugar`、`QYQ.Base.SnowId`（包含 `CustomSplitTableExtension`）
-- **命名空间**：`using QYQ.Base.SnowId.Extension;`（引入 `FilterSplitTablesByRange` 扩展）
+- **NuGet**：`QYQ.Base.SqlSugar`（包含 `CustomSplitTableExtension`）
+- **命名空间**：`using QYQ.Base.SqlSugar.Extension;`（引入 `FilterSplitTablesByRange` 扩展）
 - **SqlSugar**：`using SqlSugar;`
 
 ---
